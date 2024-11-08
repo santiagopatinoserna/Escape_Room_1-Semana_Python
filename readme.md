@@ -55,19 +55,19 @@ Durante la semana de desarrollo enfrentamos varios problemas que logramos resolv
 
 Puedes acceder al Escape Room desde Google Colab aquí. [Link al proyecto en Colab]
 
-- **Acceso a `functions.py`**: [Link al archivo]
-- **Acceso a `main.ipynb`**: [Link al archivo]
-- **Presentación en diapositivas**: [Link a la presentación]
+- **Acceso a `funcionesfinal.py`**: [Link Funciones](https://github.com/estcr/Escape_Room_1-Semana_Python/blob/main/funcionesfinal.py)
+- **Acceso a `mainfinal.ipynb`**: [Link Main](https://github.com/estcr/Escape_Room_1-Semana_Python/blob/main/mainfinal.ipynb)
+- **Presentación en diapositivas**: [Presentación](https://github.com/estcr/Escape_Room_1-Semana_Python/blob/main/Presentaci%C3%B3n%20general.pptx)
 
 ---
 
 ## Participantes
 
-- Gerardo Jiménez
-- Esteban Cristos
+- Esteban Cristos Muzzupappa. [Linkedin](https://www.linkedin.com/in/esteban-daniel-cristos-muzzupappa-37b72635/)
+- Gerardo Jimenez
 
 ---
 
 ## Mapa
 
-(https://github.com/estcr/Escape_Room_1-Semana_Python/blob/main/Imagenes/mapa.png)
+![Mapa del escape room](https://github.com/estcr/Escape_Room_1-Semana_Python/blob/main/Imagenes/mapa.png)
