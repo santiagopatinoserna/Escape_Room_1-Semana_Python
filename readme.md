@@ -70,4 +70,4 @@ Puedes acceder al Escape Room desde Google Colab aquí. [Link al proyecto en Col
 
 ## Mapa
 
-![Imagen del Mapa](enlace-a-imagen)
+(https://github.com/estcr/Escape_Room_1-Semana_Python/blob/main/Imagenes/mapa.png)
